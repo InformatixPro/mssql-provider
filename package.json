@@ -1,0 +1,36 @@
+{
+  "name": "informatixpro-mssql-provider",
+  "description": "Interface to MSSQL database for InformatixPro projects",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Matt Ebersbach",
+      "email": "mebersbach@informatixpro.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InformatixPro/mssql-provider"
+  },
+  "dependencies": {
+      "mssql": "2.1.3"
+  },
+  "devDependencies": {
+  },
+  "files": 
+    "lib/",
+    "index.js",
+    "package.json"
+  ],
+  "engines": {
+    "node": ">= 0.12"
+  },
+  "scripts": {
+  },
+  "maintainers": [
+    {
+      "name": "Matthew Ebersbach",
+      "email": "mebersbach@informatixpro.com"
+    }
+  ]
+}
